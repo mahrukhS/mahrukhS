@@ -1,7 +1,7 @@
-Hi 👋 My name is Mahrukh
+Hi 👋 I'm Mahrukh
 ========================
 
-Researcher || Data Analyst || Problem Solver
+Data Analyst || Data Scientist || Problem Solver
 --------------------------------------------
 
 Playing With Data and Words to Crack Complexity . . . Guided By Intuition
