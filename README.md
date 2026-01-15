@@ -4,10 +4,8 @@ Hi 👋 I'm Mahrukh
 Health Analyst || Public Health Data Scientist || Problem Solver
 --------------------------------------------
 
-Playing With Data and Words to Crack Complexity . . . Guided By Intuition
-
 *   ✉️  You can contact me at [mahrukhsaif2020@gmail.com](mailto:mahrukhsaif2020@gmail.com)
-*   🧠  I'm learning Data Analytics | NLP | LLM | ML | DL | Python | React
+*   🧠  I'm learning Health Analytics and AI with an aim to reduce health system fragmentation
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  Interesting Fact - I'm a witch
   ### Skills 
